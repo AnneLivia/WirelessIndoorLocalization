@@ -2,7 +2,7 @@
 
 ### In this project, it was trained different Machine Learning models to identify a room based on the Wireless Indoor Signal strengths. The models used were: Decision Tree, AdaBoost, Random Forest, Extra Tree, XGBoost, SVM, KNN, and a Multi-layer Perceptron classifier.
 
-<p align="center"><img src="data/wireless.gif" width="100%" height="100%"/></p>
+<p align="center"><img src="data/wireless.gif" width="40%"/></p>
 <h6 align="center">Image obtained from <a href="https://giphy.com/voo">VOO.</a></h6>
   
 ### Models implemented by <a href="https://github.com/AnneLivia">Anne Livia</a>.
